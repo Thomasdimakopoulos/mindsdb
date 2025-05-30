@@ -41,8 +41,6 @@ mindsdb/integrations/handlers/autokeras_handler/structured_data_classifier
 AutogluonModels
 
 # VisualStudioCode
-.vscode
-.vscode/*
 .history
 doc/lib/
 run.csh
@@ -63,3 +61,4 @@ node_modules
 
 mindsdb/**/pyproject.toml
 mindsdb/**/uv.lock
+config.bat
