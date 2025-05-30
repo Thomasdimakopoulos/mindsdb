@@ -41,8 +41,6 @@ mindsdb/integrations/handlers/autokeras_handler/structured_data_classifier
 AutogluonModels
 
 # VisualStudioCode
-.vscode
-.vscode/*
 .history
 doc/lib/
 run.csh
@@ -60,3 +58,4 @@ xgboost
 
 # Docs
 node_modules
+config.bat
